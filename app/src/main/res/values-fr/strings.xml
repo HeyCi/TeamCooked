@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="play">jouer</string>
+    <string name="profile">profil</string>
+    <string name="quit">quitter</string>
+    <string name="success">Succès :</string>
+    <string name="game_name">Nom de la partie</string>
+    <string name="password">Mot de passe</string>
+    <string name="create_game">Créer une partie</string>
+    <string name="join_game">Rejoindre une partie</string>
+    <string name="ok">OK</string>
+</resources>

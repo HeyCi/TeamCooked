@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">TeamCooked</string>
+    <string name="play">play</string>
+    <string name="profile">profile</string>
+    <string name="quit">quit</string>
+    <string name="success">Success :</string>
+    <string name="game_name">Game Name</string>
+    <string name="password">Password</string>
+    <string name="create_game">Create game</string>
+    <string name="join_game">Join game</string>
+    <string name="ok">OK</string>
+</resources>
