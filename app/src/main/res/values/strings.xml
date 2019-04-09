@@ -10,4 +10,7 @@
     <string name="create_game">Create game</string>
     <string name="join_game">Join game</string>
     <string name="ok">OK</string>
+    <string name="ready">Ready</string>
+    <string name="launch">Launch</string>
+    <string name="waiting_for_teammates">Waiting for teammates</string>
 </resources>

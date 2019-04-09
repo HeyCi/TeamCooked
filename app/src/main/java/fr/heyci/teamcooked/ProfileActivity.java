@@ -30,6 +30,7 @@ public class ProfileActivity extends AppCompatActivity implements View.OnClickLi
         successExample4 = findViewById(R.id.successExample4);
 
         profilePicture.setOnClickListener(this);
+        successExample1.setOnClickListener(this);
     }
 
     @Override
@@ -42,6 +43,13 @@ public class ProfileActivity extends AppCompatActivity implements View.OnClickLi
 
     @Override
     public void onClick(View view) {
+        if (view == profilePicture) {
+
+        } else if (view == successExample1) {
+            Intent intent = new Intent(this, SuccessActivity.class);
+            // TODO putExtra avec id du success
+            startActivity(intent);
+        }
         
     }
 }

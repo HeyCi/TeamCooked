@@ -9,4 +9,7 @@
     <string name="create_game">Créer une partie</string>
     <string name="join_game">Rejoindre une partie</string>
     <string name="ok">OK</string>
+    <string name="ready">Prêt</string>
+    <string name="launch">Lancer</string>
+    <string name="waiting_for_teammates">En attente de coéquipiers</string>
 </resources>

@@ -20,6 +20,9 @@
         </activity>
         <activity android:name=".ProfileActivity" />
         <activity android:name=".NewGameActivity" />
+        <activity android:name=".WaitingRoomActivity" />
+        <activity android:name=".InGameActivity" />
+        <activity android:name=".SuccessActivity"></activity>
     </application>
 
 </manifest>
